@@ -6,4 +6,4 @@ retro plain old telephone system hardware
 
 see issues 
 
-license tbd- some open hardware license
+license: CC0 see [LICENSE](./LICENSE)
